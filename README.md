@@ -1,16 +1,2 @@
-# todo_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Parse-TodoApp
+A simple Todo App created in Flutter with Parse as the backend demonstrating CRUD operations. The objective of this repo is to provide a starter example for developers opting for Parse as backend and Flutter as frontend showing how without any third party libraries one can build the app using RestFUL APIs. 
